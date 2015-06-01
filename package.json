@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mlybrand/menu-prototype/issues"
   },
-  "homepage": "https://github.com/mlybrand/menu-prototype"
+  "homepage": "https://github.com/mlybrand/menu-prototype",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
