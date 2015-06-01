@@ -1,0 +1,19 @@
+{
+  "name": "menu-prototype",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mlybrand/menu-prototype",
+  "authors": [
+    "Mark Lybrand <mlybrand@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
